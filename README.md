@@ -1,5 +1,5 @@
 # SISCONEF
-SISCONEP is a web-based personnel control and management system, developed for internal use by a Brazilian Army OM.
+O SISCONEF é um sistema web de controle de efetivo, desenvolvido para uso interno de uma OM do Exército Brasileiro.
 
 # SISCONEF
 
