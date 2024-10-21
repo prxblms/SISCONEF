@@ -33,4 +33,28 @@ O SISCONEF conta com funcionalidades robustas, incluindo:
 
 Por se tratar de um sistema desenvolvido especificamente para um organização militar esse projeto é privado.
 
+## Algumas Telas do Sistema
 
+### Tela de Cadastro Militar
+![Tela de Cadastro Militar](./imgs/cad_military.png)
+
+### Tela de Férias
+![Tela de Férias](./imgs/ferias.png)
+
+### Lista de Militares
+![Lista de Militares](./imgs/list-militarie.png)
+
+### Tela de Login
+![Tela de Login](./imgs/login.png)
+
+### Mapeamento
+![Tela de Mapeamento](./imgs/mapping2.png)
+
+### Menu Principal
+![Menu Principal](./imgs/menu.png)
+
+### Relatório
+![Relatório](./imgs/relatorio.png)
+
+### Painel do Usuário
+![Painel do Usuário](./imgs/userpanel.png)
