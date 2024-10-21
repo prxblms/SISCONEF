@@ -1,6 +1,10 @@
 # SISCONEF
 O SISCONEF é um sistema web de controle de efetivo, desenvolvido para uso interno de uma OM do Exército Brasileiro.
 
+### Desenvolvido por:
+- [prxblms](https://github.com/prxblms)
+- [jhonathandelgado16](https://github.com/jhonathandelgado16)
+
 # SISCONEF
 
 SISCONEF é um sistema web de uso interno, projetado para ser utilizado em uma intranet. Embora possa ser adaptado para qualquer tipo de negócio que necessite de controle e gerenciamento de pessoal, este sistema foi desenvolvido especificamente para uma Organização Militar do Exército Brasileiro, com o objetivo de substituir o uso de papel desnecessário.
