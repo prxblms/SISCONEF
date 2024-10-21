@@ -31,4 +31,6 @@ O SISCONEF conta com funcionalidades robustas, incluindo:
 
 ## Acesso ao sistema
 
-Por se tratar de um sistema desenvolvido especificamente para um organização militar esse projeto é 
+Por se tratar de um sistema desenvolvido especificamente para um organização militar esse projeto é privado.
+
+
